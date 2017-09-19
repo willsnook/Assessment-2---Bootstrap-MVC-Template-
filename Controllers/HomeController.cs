@@ -31,8 +31,6 @@ namespace Assessment_2___Bootstrap_MVC_Template___UR.Controllers
 
         public IActionResult Profile()
         {
-            
-
             return View();
         }
 
