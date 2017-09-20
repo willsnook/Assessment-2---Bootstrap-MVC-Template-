@@ -2,8 +2,46 @@
     padding-top: 70px;
     padding-bottom: 20px;
 }
-.navbar{
-    height: 70px;
+.navbar-header{
+    height: 90px;
+}
+.col-sm-4{
+    display: inline-block;
+}
+
+button.btn-lg{
+    height: 75px;
+    width: 75px;
+}
+span.icon-bar{
+    padding-left:43px;
+    padding-top:5px;
+    margin:10px;
+    margin-left: 5px;
+}
+.logos{
+    height:100%;
+    width:100% ; 
+    background-repeat: no-repeat;
+    background-size: 75px 75px;
+}
+.facebook{
+    background-image: url(/images/facebook.png); 
+}
+img.facebook:hover{
+    background-image: url(/images/facebookGray.png); 
+}
+.youtube{
+    background-image: url(/images/youtube.png); 
+}
+img.youtube:hover{
+    background-image: url(/images/youtubeGray.png); 
+}
+.twitter{
+    background-image: url(/images/twitter.png);
+}
+img.twitter:hover{
+    background-image: url(/images/twitterGray.png); 
 }
 
 
@@ -39,16 +77,23 @@ textarea {
         display: none;
     }
 }
-@media screen and (min-width:1025px) {
-    nav{
 
-    }
-    
-}  
 @media screen and (min-width:768px) and (max-width:1024px) {
-   
+    .navbar-nav>li>a{
+        padding-left:70px ;
+        padding-bottom: 0px;
+        font-size:20px;
+    }
+    .navbar-nav>li{
+        width: 150px;
+    }
+    .navbar-nav{
+        width:500px
+    }
 }  
-@media screen and (min-width:0px) and (max-width:767px) {
-    
-
-}
+@media screen and (min-width:1025px) {
+   .navbar-nav>li>a{
+        padding:30px; 
+        font-size:25px;
+    }
+}  

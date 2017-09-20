@@ -16,13 +16,14 @@
               asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
               asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
         <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/css/site.css" />
     </environment>
 </head>
 <body>
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
-                <a class="navbar-brand " href="#" style =" display :inline-block; padding:0px;"><img src = "/images/logo.png" class=" img-rounded" style =" height:100%;"></a>
+                <a class="navbar-brand " href="#" style =" display :inline-block; padding:0px;"><img src = "/images/logo.png" class="img-responsive img-rounded" style =" height:90px;"></a>
                 
                 <button type="button " class="navbar-toggle btn-lg" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
@@ -35,12 +36,12 @@
                       
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Portfolio">Portfolio</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Media">Media</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Profile">Profile</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Blog">Blog</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contect</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Index" >Home</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Portfolio" >Portfolio</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Media" >Media</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Profile" >Profile</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Blog" >Blog</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Contact" >Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -49,7 +50,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copyrite; 2017 - JJWV</p>
+            <p>&copy; 2017 - JJWV</p>
         </footer>
     </div>
 

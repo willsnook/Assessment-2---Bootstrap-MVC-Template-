@@ -8,3 +8,13 @@ C:\Users\Vincent\Desktop\Assessment-2---Bootstrap-MVC-Template---UR\bin\Debug\ne
 C:\Users\Vincent\Desktop\Assessment-2---Bootstrap-MVC-Template---UR\bin\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.pdb
 C:\Users\Vincent\Desktop\Assessment-2---Bootstrap-MVC-Template---UR\obj\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.dll
 C:\Users\Vincent\Desktop\Assessment-2---Bootstrap-MVC-Template---UR\obj\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.pdb
+C:\Users\Vincent\Assessment-2---Bootstrap-MVC-Template---UR\bin\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.deps.json
+C:\Users\Vincent\Assessment-2---Bootstrap-MVC-Template---UR\bin\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.runtimeconfig.json
+C:\Users\Vincent\Assessment-2---Bootstrap-MVC-Template---UR\bin\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.runtimeconfig.dev.json
+C:\Users\Vincent\Assessment-2---Bootstrap-MVC-Template---UR\bin\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.dll
+C:\Users\Vincent\Assessment-2---Bootstrap-MVC-Template---UR\bin\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.pdb
+C:\Users\Vincent\Assessment-2---Bootstrap-MVC-Template---UR\obj\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Assessment-2---Bootstrap-MVC-Template---UR\obj\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.AssemblyInfoInputs.cache
+C:\Users\Vincent\Assessment-2---Bootstrap-MVC-Template---UR\obj\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.AssemblyInfo.cs
+C:\Users\Vincent\Assessment-2---Bootstrap-MVC-Template---UR\obj\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.dll
+C:\Users\Vincent\Assessment-2---Bootstrap-MVC-Template---UR\obj\Debug\netcoreapp2.0\Assessment-2---Bootstrap-MVC-Template---UR.pdb
