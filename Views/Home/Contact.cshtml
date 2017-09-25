@@ -1,15 +1,8 @@
-﻿@{
-    ViewData["Title"] = "Contact";
-}
-<h2>@ViewData["Title"].</h2>
-<h3>@ViewData["Message"]</h3>
-
-
-  <div class="container">
+﻿<div class="container">
     <div class="row" style="text-align: center;" >
         <div class="col-sm-4  " >
           <button class="btn btn-lg"style="padding:0px;">
-          <img class="img-responsive img-rounded facebook logos" >
+            <img class="img-responsive img-rounded facebook logos" >
           </button>
         </div>
         <div class="col-sm-4">
@@ -23,13 +16,10 @@
             </button>
         </div>
     </div>
-
-
-<div class="row">
-    <div class="col-sm-12" >
+  <div class="row">
+    <div class="col-sm-6" >
         <div id="googleMap" style="width:100%;height:400px; margin-top:100px;;"></div>
-
-              <script>
+            <script>
               function myMap() {
               var OurCompany = {lat:-37.686026, lng: 176.166318};
               var mapProp= {
@@ -42,22 +32,24 @@
                       map: map
                     });
               }
+            </script>
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdtCxB8aOlk_lTkMPCX7bsmxZCGSJQO5k&callback=myMap"></script>
+    </div>
+  
 
-              </script>
-              <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdtCxB8aOlk_lTkMPCX7bsmxZCGSJQO5k&callback=myMap"></script>
+
+    <div class="col-sm-6 " style="margin-top:100px;">
+      <address>
+        4 Privet Drive<br />
+         cupboard under the stairs<br />
+        <abbr title="Phone">P:</abbr>
+        0800 838383
+      </address>
+`
+      <address>
+        <strong>Support:</strong> <a href="mailto:Support@example.com">Support@example.com</a><br />
+        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+      </address>
     </div>
   </div>
 </div>
-
-
-<address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
-    <abbr title="Phone">P:</abbr>
-    425.555.0100
-</address>
-
-<address>
-    <strong>Support:</strong> <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
-</address>

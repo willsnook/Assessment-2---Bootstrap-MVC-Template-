@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vincent\\Assessment-2---Bootstrap-MVC-Template---UR\\Assessment-2---Bootstrap-MVC-Template---UR.csproj",
+      "projectUniqueName": "c:\\Users\\Vincent\\Desktop\\Assessment-2---Bootstrap-MVC-Template---UR\\Assessment-2---Bootstrap-MVC-Template---UR.csproj",
       "projectName": "Assessment-2---Bootstrap-MVC-Template---UR",
-      "projectPath": "C:\\Users\\Vincent\\Assessment-2---Bootstrap-MVC-Template---UR\\Assessment-2---Bootstrap-MVC-Template---UR.csproj",
+      "projectPath": "c:\\Users\\Vincent\\Desktop\\Assessment-2---Bootstrap-MVC-Template---UR\\Assessment-2---Bootstrap-MVC-Template---UR.csproj",
       "packagesPath": "C:\\Users\\Vincent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vincent\\Assessment-2---Bootstrap-MVC-Template---UR\\obj\\",
+      "outputPath": "c:\\Users\\Vincent\\Desktop\\Assessment-2---Bootstrap-MVC-Template---UR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
